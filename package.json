@@ -1,0 +1,22 @@
+{
+  "name": "rentshare-node",
+  "version": "0.1.0",
+  "description": "A simple library to interface with the RentShare REST API. See https://developer.rentshare.com for details.",
+  "main": "lib/rentshare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rentshare/rentshare-node.git"
+  },
+  "author": "RentShare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rentshare/rentshare-node/issues"
+  },
+  "homepage": "https://github.com/rentshare/rentshare-node#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
