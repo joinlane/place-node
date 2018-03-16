@@ -20,9 +20,9 @@ var rentshare = require('rentshare');
 rentshare.api_key = = 'private_key_6fsMi3GDxXg1XXSluNx1sLEd';
 
 var account = await rentshare.Account.create({
-	email: 'joe.schmoe@example.com',
-	full_name: 'Joe Schmoe',
-	user_type: 'payer'
+  email: 'joe.schmoe@example.com',
+  full_name: 'Joe Schmoe',
+  user_type: 'payer'
 }).then(function(account) {
   console.log(account.id)
 });
