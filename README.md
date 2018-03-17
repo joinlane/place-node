@@ -29,4 +29,4 @@ var account = rentshare.Account.create({
 ```
 
 ## Documentation
-Read the [docs](https://developer.rentshare.com/?node)
+Read the [docs](https://developer.rentshare.com/?javascript)
