@@ -1,21 +1,21 @@
 {
-  "name": "rentshare-node",
-  "version": "0.1.0",
-  "description": "A simple library to interface with the RentShare REST API. See https://developer.rentshare.com for details.",
-  "main": "lib/rentshare.js",
+  "name": "place-node",
+  "version": "0.5.2",
+  "description": "A simple library to interface with the Place REST API. See https://developer.placepay.com for details.",
+  "main": "lib/place.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rentshare/rentshare-node.git"
+    "url": "git+ssh://git@github.com/placepay/place-node.git"
   },
-  "author": "RentShare",
+  "author": "Place",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rentshare/rentshare-node/issues"
+    "url": "https://github.com/placepay/place-node/issues"
   },
-  "homepage": "https://github.com/rentshare/rentshare-node#readme",
+  "homepage": "https://github.com/placepay/place-node#readme",
   "dependencies": {
     "request": "^2.83.0"
   }

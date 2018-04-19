@@ -1,25 +1,25 @@
-# RentShare Node.js Library
+# Place Node.js Library
 
-A Node library for interfacing with the RentShare API
+A Node library for interfacing with the Place API
 
 ## Installation
 
 To install using [npm](https://www.npmjs.com/):
 
 ```bash
-npm install git+ssh://git@github.com/rentshare/rentshare-node.git
+npm install git+ssh://git@github.com/placepay/place-node.git
 ```
 
 ## Basic usage
 
 ```javascript
 
-var rentshare = require('rentshare');
+var place = require('place');
 
 // set your api key
-rentshare.api_key = = 'private_key_6fsMi3GDxXg1XXSluNx1sLEd';
+place.api_key = = 'private_key_6fsMi3GDxXg1XXSluNx1sLEd';
 
-var account = rentshare.Account.create({
+var account = place.Account.create({
   email: 'joe.schmoe@example.com',
   full_name: 'Joe Schmoe',
   user_type: 'payer'
@@ -29,4 +29,4 @@ var account = rentshare.Account.create({
 ```
 
 ## Documentation
-Read the [docs](https://developer.rentshare.com/?javascript)
+Read the [docs](https://developer.placepay.com/?javascript)
