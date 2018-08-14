@@ -14,7 +14,7 @@ npm install place-api
 
 ```javascript
 
-var place = require('place');
+var place = require('place-api');
 
 // set your api key
 place.api_key = = 'private_key_6fsMi3GDxXg1XXSluNx1sLEd';
