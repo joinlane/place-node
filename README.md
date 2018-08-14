@@ -7,7 +7,7 @@ A Node library for interfacing with the Place API
 To install using [npm](https://www.npmjs.com/):
 
 ```bash
-npm install git+ssh://git@github.com/placepay/place-node.git
+npm install place-node
 ```
 
 ## Basic usage
