@@ -1,5 +1,5 @@
 {
-  "name": "place-node",
+  "name": "place-api",
   "version": "0.5.4",
   "description": "A simple library to interface with the Place REST API. See https://developer.placepay.com for details.",
   "main": "lib/place.js",

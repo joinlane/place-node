@@ -7,7 +7,7 @@ A Node library for interfacing with the Place API
 To install using [npm](https://www.npmjs.com/):
 
 ```bash
-npm install place-node
+npm install place-api
 ```
 
 ## Basic usage
