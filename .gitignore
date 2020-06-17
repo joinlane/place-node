@@ -1,0 +1,38 @@
+logs/
+*.log
+eslint.log
+
+pids/
+*.pid
+*.seed
+
+lib-conv
+
+coverage
+
+.grunt
+
+node_modules/
+
+.idea/
+.DS_Store
+
+dist/
+*.code-workspace
+
+packages/lane-mobile/ios/Pods/
+packages/lane-mobile/android/local.properties
+
+# VS Code
+.vscode/
+
+packages/lane-mobile/android/fastlane/key.json
+
+# Local Netlify folder
+.netlify
+
+.terraform
+
+# Cypress
+packages/lane-web/cypress/screenshots/
+packages/lane-web/cypress/videos/

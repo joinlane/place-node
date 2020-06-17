@@ -1,6 +1,6 @@
 {
   "name": "place-api",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "A simple library to interface with the Place REST API. See https://developer.placepay.com for details.",
   "main": "lib/place.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/placepay/place-node.git"
+    "url": "git+ssh://git@github.com/joinlane/place-node.git"
   },
   "author": "Place",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/placepay/place-node/issues"
+    "url": "https://github.com/joinlane/place-node/issues"
   },
-  "homepage": "https://github.com/placepay/place-node#readme",
+  "homepage": "https://github.com/joinlane/place-node#readme",
   "dependencies": {
     "request": "^2.83.0"
   }
